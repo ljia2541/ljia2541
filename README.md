@@ -4,21 +4,30 @@ I build AI-powered tools that help people work smarter.
 
 ## 🚀 My Projects
 
-### [GoTaskMind](https://gotaskmind.com) — AI Project Planner
-Transform project ideas into actionable task plans with AI. Describe your project in plain English and get structured task breakdowns with priorities, dependencies, and time estimates.
-- 🆓 Free plan with 3 projects and AI task generation
-- 📊 Kanban boards, calendar views, and progress tracking
-- 🔗 [gotaskmind.com](https://gotaskmind.com)
-
-### [FineGrain](https://www.finegrainimageenhancer.com) — AI Image Enhancer
-Free AI image upscaler that enhances photos to 4K/10K resolution. Multiple AI models for different needs — from free Real-ESRGAN to professional Crystal AI portrait enhancement.
+### [FineGrain](https://www.finegrainimageenhancer.com) — Free Online AI Photo Enhancer
+Free AI photo enhancer with professional quality. Upscale photos to 4K/10K with multiple AI models (Real-ESRGAN, Google Upscaler, Recraft, Crystal AI). Fix blurry photos, enhance portraits, prepare print-ready images. No signup required.
 - 🆓 3 free enhancements daily, no signup required
 - 🖼️ Models: Real-ESRGAN, Google Upscaler, Recraft, Crystal AI
+- 📸 Portrait enhancement, old photo restoration, print-quality upscaling
 - 🔗 [finegrainimageenhancer.com](https://www.finegrainimageenhancer.com)
+
+### [GoTaskMind](https://www.gotaskmind.com) — Free AI Mind Map Generator
+Free AI-powered mind map generator. Enter any topic and instantly create a beautiful, structured visual mind map. Export as PNG or SVG. No signup required. Perfect for brainstorming, studying, project planning, and visual thinking.
+- 🧠 Instant AI-generated mind maps from any topic
+- 📥 Export as high-resolution PNG or vector SVG
+- 🆓 Completely free, no signup required
+- 🔗 [gotaskmind.com](https://www.gotaskmind.com)
+
+---
+
+## 🔗 Links
+
+- **FineGrain** - [Free AI Photo Enhancer](https://www.finegrainimageenhancer.com) | [GitHub](https://github.com/ljia2541/finegrain)
+- **GoTaskMind** - [AI Mind Map Generator](https://www.gotaskmind.com) | [GitHub](https://github.com/ljia2541/gotaskmind)
 
 ---
 
 ⭐ If you find my projects useful, please give them a star!
 
-[![GoTaskMind](https://img.shields.io/badge/GoTaskMind-AI_Project_Planner-blue)](https://gotaskmind.com)
-[![FineGrain](https://img.shields.io/badge/FineGrain-AI_Image_Enhancer-green)](https://www.finegrainimageenhancer.com)
+[![FineGrain](https://img.shields.io/badge/FineGrain-Free_AI_Photo_Enhancer-green)](https://www.finegrainimageenhancer.com)
+[![GoTaskMind](https://img.shields.io/badge/GoTaskMind-AI_Mind_Map_Generator-blue)](https://www.gotaskmind.com)
